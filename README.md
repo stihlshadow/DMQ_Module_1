@@ -50,8 +50,8 @@ Steps to Build and Run
 
 1. Clone the repository:
 
-git clone https://westleytbridges@dev.azure.com/westleytbridges/Design%20Maintenance%20and%20Quality/_git/Design%20Maintenance%20and%20Quality
-cd Design-Maintenance-and-Quality
+git clone https://github.com/stihlshadow/DMQ_Module_1.git
+cd DMQ_Module_1
 
 2. Run the program:
 
